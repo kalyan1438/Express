@@ -1,0 +1,25 @@
+{
+  "name": "exp",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000E\u0000x\u0000p\u0000r\u0000e\u0000s\u0000s\u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalyan1438/Express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/kalyan1438/Express/issues"
+  },
+  "homepage": "https://github.com/kalyan1438/Express#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
